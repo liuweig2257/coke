@@ -8,6 +8,8 @@
 
 #### 组件 ####
 
+[带你领略Android Jetpack组件的魅力](https://blog.csdn.net/Alexwll/article/details/83302173)
+
 #### 自定义view ####
 [Android开发之onMeasure（int widthMeasureSpec, int heightMeasureSpec）方法](https://www.jianshu.com/p/9f33c6d43b1c)
 
@@ -30,6 +32,10 @@
 [flutter开发快捷键](https://juejin.im/post/5c5d970e6fb9a049af6db7cd)
 
 [原生App项目集成flutter混合开发详细指南](https://juejin.im/post/5c6eba82518825626b76f0eb#heading-5)
+
+[阿里flutter混合开发方案（开源项目）](https://mp.weixin.qq.com/s/v-wwruadJntX1n-YuMPC7g)
+
+[阿里flutter热更新方案](https://mp.weixin.qq.com/s/hFdBtDQo1TvvxBGHLV3Stw)
 
 ### 学习资源网站 ###
 
