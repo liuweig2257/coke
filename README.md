@@ -15,6 +15,8 @@
 
 [理解MeasureSpec](https://www.jianshu.com/p/d577a04b2a16)
 
+[你需要了解下Android View的更新requestLayout与重绘invalidate](https://juejin.im/post/5c9c2c76f265da60c576fab1)
+
 [【进阶】RecyclerView源码解析(一)——绘制流程 ->系列文章](https://www.jianshu.com/p/c52b947fe064)
 
 ### 动画 ###
@@ -30,6 +32,10 @@
 [Flutter试用报告（flutter原理介绍）](https://juejin.im/post/5c64cc2d518825626b76d7a5)
 
 [flutter开发快捷键](https://juejin.im/post/5c5d970e6fb9a049af6db7cd)
+
+[flutter开发系列教程](https://juejin.im/post/5b631d326fb9a04fce524db2)
+
+[flutter技术介绍系列方案](https://www.jianshu.com/p/ed75beccb396 "flutter技术介绍系列方案")
 
 [原生App项目集成flutter混合开发详细指南](https://juejin.im/post/5c6eba82518825626b76f0eb#heading-5)
 
@@ -52,3 +58,5 @@
 ### 优化 ###
 
 [实践App内存优化：如何有序地做内存分析与优化](https://juejin.im/post/5b1b5e29f265da6e01174b84)
+
+[app优化系列文章](https://www.jianshu.com/p/c0e5c13d5ecb)
