@@ -43,6 +43,8 @@
 
 [阿里flutter热更新方案](https://mp.weixin.qq.com/s/hFdBtDQo1TvvxBGHLV3Stw)
 
+[状态管理的知识](http://kunkun12.com/2018/12/03/flutter-study/)
+
 ### 学习资源网站 ###
 
 ### java基础 ###
@@ -53,7 +55,10 @@
 
 [JVM系列：(十)内存分配与回收](https://www.qbian.me/article/JVM%E7%B3%BB%E5%88%97%EF%BC%9A(%E5%8D%81)%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E4%B8%8E%E5%9B%9E%E6%94%B6)
 
+
 [Java多线程学习（一）Java多线程入门  --内含多篇文章](https://juejin.im/post/5ab116875188255561411b8a#heading-11)
+
+[Java反射：这是一份全面 & 详细的 Java反射机制 学习指南](https://www.jianshu.com/p/356e1d7a9d11)
 
 ### 优化 ###
 
