@@ -60,3 +60,7 @@
 [实践App内存优化：如何有序地做内存分析与优化](https://juejin.im/post/5b1b5e29f265da6e01174b84)
 
 [app优化系列文章](https://www.jianshu.com/p/c0e5c13d5ecb)
+
+### 高级 ###
+
+[https://juejin.im/post/5ca31f6ae51d4509ab78d76a](https://juejin.im/post/5ca31f6ae51d4509ab78d76a)
