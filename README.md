@@ -41,6 +41,8 @@
 
 [阿里flutter混合开发方案（开源项目）](https://mp.weixin.qq.com/s/v-wwruadJntX1n-YuMPC7g)
 
+[flutter_boost 集成体验之Android ](https://mp.weixin.qq.com/s/-e0fuIclimjg1Cc5pYjPzg)
+
 [阿里flutter热更新方案](https://mp.weixin.qq.com/s/hFdBtDQo1TvvxBGHLV3Stw)
 
 [状态管理的知识](http://kunkun12.com/2018/12/03/flutter-study/)
@@ -68,4 +70,4 @@
 
 ### 高级 ###
 
-[https://juejin.im/post/5ca31f6ae51d4509ab78d76a](https://juejin.im/post/5ca31f6ae51d4509ab78d76a)
+[Android编译期插桩，让程序自己写代码(一)](https://juejin.im/post/5ca31f6ae51d4509ab78d76a)
