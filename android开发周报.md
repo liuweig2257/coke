@@ -6,6 +6,9 @@
 
 [使用Android架构组件实现MVVM模式的应用 ](https://mp.weixin.qq.com/s/ZKwseKbq2KnwO3b5Oq5l8g)
 
+[【AAC 系列二】深入理解架构组件的基石：Lifecycle ](https://mp.weixin.qq.com/s/8vuOj8JnGk-hwl5AU2itkQ?utm_source=androidweekly.io&utm_medium=website)
+
+
 ### 开发框架 ###
 
 [FlutterBoost(git地址)](https://github.com/alibaba/flutter_boost?utm_source=androidweekly.io&utm_medium=website "FlutterBoost(git地址)")
