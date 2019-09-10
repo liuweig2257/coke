@@ -19,10 +19,14 @@
 
 [QRefreshLayout 下拉刷新，上拉加载更多，自动加载更多，用法同SwipeRefreshLayout，兼容所有view，兼容nested滚动，可以自定义刷新动画 ](https://www.androidweekly.cn/android-dev-weekly-issue-226/)
 
+[ARouter API 简单分析](https://rebooters.github.io/2019/07/20/ARouter-API-%E5%88%86%E6%9E%90/?utm_source=androidweekly.io&utm_medium=website)
+
 
 #### 知识 ####
 
 [大 O 表示法](http://rkhcy.github.io/2019/03/06/bigO/?utm_source=androidweekly.io&utm_medium=website)
+
+[github帮助文档](https://help.github.com/cn?utm_source=androidweekly.io&utm_medium=website)
 
 #### 拓展 ####
 
