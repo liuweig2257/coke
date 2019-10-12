@@ -99,6 +99,16 @@
 
 [app优化系列文章](https://www.jianshu.com/p/c0e5c13d5ecb)
 
+[面试官：今日头条启动很快，你觉得可能是做了哪些优化？](https://juejin.im/post/5d95f4a4f265da5b8f10714b "面试官：今日头条启动很快，你觉得可能是做了哪些优化？")
+
+#### 内存管理与gc知识 ####
+
+[探索 Java 内存管理机制](https://juejin.im/post/5d3a870df265da1b855c9d41#heading-4)
+
+[Java性能优化之JVM GC（垃圾回收机制）](https://www.cnblogs.com/jiling/p/8527050.html)
+
+[探索 Android 内存优化方法](https://juejin.im/post/5d3ada056fb9a07eb94fd1bc)
+
 ### 算法 ###
 
 [算法学习思路 系列文章](https://juejin.im/post/5cac00bd6fb9a0686362bd86)
